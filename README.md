@@ -10,6 +10,8 @@ From a passenger perspective, it's always better chance to get a ride share in U
 
 Following chart is to support the observations above (used the % obtained from the activiy, number of drivers, fares and number of rides are any chosen numbers) -
 
+NOTE: Please open the README file in edit mode, formatting of data is not working from viewer.
+
 	        Number/Amt	Urban			Suburban		Rural	          Rural/Urban	  Suburban/Urban
 Drivers	      	1000	      	809     (80.9%)	    	165     (16.5%)   	26    (2.6%)		
 Fares	        500000	    	313500  (62.7%)     	152500  (30.5%)	  	34000 (6.8%)		
