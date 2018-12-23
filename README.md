@@ -2,7 +2,7 @@
 
 Observations:
 
-In order of popularity, Urban areas is most popular in ride share followed by Suburban and Rural.  For Fares and Rides, nearly two third of the market share is from Urban area.  And four fifth of total drivers are from Urban area.  Though number of rides is very less for Rural area with respect to other two, the average fare in Rural area is much higher than others.
+In order of popularity, Urban areas is most popular in ride share followed by Suburban and Rural.  For Fares and Rides, nearly two third of the market share is from Urban area.  And four fifth of total drivers are from Urban area.  Though number of rides is very less for Rural area with respect to other two, the higher average fares are from Rural area.
 
 More drivers in Urban area resulting in less average income per driver in Urban area.  In the same way, a Rural driver gets more average ride than an Urban driver.  Actually, on average a Rural driver is getting 2.4 times rides and 3.4 times fare than an Urban driver.
 
